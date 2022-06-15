@@ -1,0 +1,6 @@
+redis:
+  clusters:
+    ip: 127.0.0.1:6379
+  password:
+  threadPool: 100
+  timeout: 3000
